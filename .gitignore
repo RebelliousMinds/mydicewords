@@ -1,0 +1,16 @@
+/RUNNING_PID
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+/target/
+.idea
+.idea_modules
+.vagrant
+/build/
+.gradle
+build/
+*.iml
+*.ipr
+.DS_Store
+
